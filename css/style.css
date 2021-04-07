@@ -1,0 +1,51 @@
+body{
+
+	/*background-color:#FF5E76;*/
+	/*background-color:black;*/
+	 /*background-image: url('../img/backgound.jpg');*/
+      background: ;
+
+
+
+}
+
+nav{
+	background-color:#FE64AD;
+}
+
+#rosa{
+	color:#FE64AD;
+}
+
+
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size:1em;
+
+}
+
+
+.fundo{
+	background-image: url('../img/background2.jpeg');
+
+}
+
+.fundo-rodape{
+
+       /* background: #8F8E50;*/
+       background: #6598F6
+
+
+	}
+
+	{
+
+       background: #8F8E50;
+
+
+	}
+
+
+
+
